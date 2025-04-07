@@ -171,6 +171,7 @@ h2 .share_ilnk{
   color: #ff5452;
   content: "12%";
   font-weight: bold;
+  margin-right: 10px;
 }
 #context .curruntPrice::after {
   height: 50px;
@@ -179,6 +180,7 @@ h2 .share_ilnk{
   content: "741,400원";
   text-decoration: line-through;
   line-height: 60px;
+  margin-left: 10px;
 }
 #context .price .saleInfo {
   font-size: 14px;
